@@ -1,2 +1,5 @@
 gitignoretest.txt
 configuration/
+artifacts.xml
+p2/
+workspace/
